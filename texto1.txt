@@ -1,2 +1,4 @@
 aprendizaje git
-esta es una segunda linea 
+esta es una segunda linea
+esta es la tercera linea de codigo 
+agregando emogis a mis commmits
